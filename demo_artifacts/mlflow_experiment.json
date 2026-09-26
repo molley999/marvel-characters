@@ -5,10 +5,11 @@
     "_lifecycle_stage": "active",
     "_tags": {
         "mlflow.ownerId": "77709061481875",
+        "repository_name": "marvelousmlops/marvel-characters",
         "mlflow.experiment.sourceName": "/Shared/marvel-demo",
         "mlflow.ownerEmail": "q.chen.9@outlook.com",
         "mlflow.experimentType": "MLFLOW_EXPERIMENT"
     },
     "_creation_time": 1790350243758,
-    "_last_update_time": 1790350243758
+    "_last_update_time": 1790351094817
 }
